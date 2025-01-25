@@ -83,13 +83,13 @@ function App() {
             <p className="text-gray-600">A Java-based project for managing library operations.</p>
           </a>
           <a
-            href="https://github.com/HarshPandey-5804/Password-generator"
+            href="https://github.com/HarshPandey-5804/Movie-Verse"
             target="_blank"
             rel="noopener noreferrer"
             className="block bg-white shadow-lg rounded-lg p-6 hover:shadow-indigo-500/50"
           >
-            <h3 className="text-xl font-bold mb-2">Password Generator - React</h3>
-            <p className="text-gray-600">A React-based tool to generate secure passwords.</p>
+            <h3 className="text-xl font-bold mb-2">Movie Verse - React</h3>
+            <p className="text-gray-600">A React-based website to list api calls consisting of users.</p>
           </a>
         </div>
       </section>
